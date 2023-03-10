@@ -8,9 +8,9 @@ public class Aksisepeda {
 	 sepedagunung.jenis = "sepedagunung";
       sepedagunung.merek= "TREK POLYGON";
 	 int gearSepeda = sepedaBalap.gear; 
-	     System.out.println("Sepeda deengan jenis = "+sepedagunung.jenis);
-		     System.out.println("dengan merek = "+sepedagunung.merek);
-			     System.out.println("Dengan 2 roda ");
+	     System.out.println("Sepeda deengan jenis "+sepedagunung.jenis);
+		     System.out.println("dengan merek  "+sepedagunung.merek);
+			     System.out.println("Memiliki 2 roda ");
 	 
 	  System.out.println("jumlah gear sepeda "+gearSepeda );
 	 sepedaBalap.ngerem(); 
