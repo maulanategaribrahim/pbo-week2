@@ -1,9 +1,17 @@
 public class Sepeda{
   int gear=5;
-  
-  void ngerem(){
-  System.out.println("Sepeda direm");
-  }
+    String jenis,merek;
+    
+    // konstruktor
+   /* Sepeda(String merek) {
+        gear = 5;
+        this.merek = merek;
+    }*/
+    
+    // method
+	
 
-
+    void ngerem() {
+        System.out.println("Sepeda di rem");
+    }
 }
