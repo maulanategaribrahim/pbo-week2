@@ -1,5 +1,5 @@
 public class Helikopter2 {
-    public static void main{String args[]}{
+  	public static void main(String[] s){
         //Pembuat Object
         Helikopter1 heliku = new Helikopter1();
         Helikopter1 helimu = new Helikopter1();
